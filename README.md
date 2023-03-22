@@ -1,4 +1,9 @@
 ### **Project's name: Convexity Regularizer for Neural Optimal Transport**
+
+## **Member of Project**
+- Nikita Guschin : teaching assistant
+- Fidele Koffivi GBagbe : 1st year master student, ACS
+- Bintang Alam Semesta W.A.M: 1st year master student, ACS
  
 ### **Background**
 Using NN (Neural Networks) to tackle continuous optimal transport problem is a promising approach especially for unpaired style-transfer problem. This method learns a one-to-one mapping between the source and target data distributions but uses adversarial  training (similar to GANs), which is not very stable. Unlike GANs, this method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution. To address the stability issue, it's necessary to insert a convexity regularizer (kind of gradient penalty in WGAN-GP) in the loss of neural optimal transport to improve its staiblity during optimal transport training while maintaining the-quality of the inverse target-to-input mapping.
