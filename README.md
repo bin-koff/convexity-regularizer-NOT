@@ -11,9 +11,9 @@ keywords: one-to-one map, inverse target-to-input-mapping, adversarial training,
 
 ### **Training a Model**
 
-## **Evaluating a Model**
+### **Evaluating a Model**
 
-## **Running a Full Experiment**
+### **Running a Full Experiment**
 Full Experiment (pre-processing, training, save, and testing a model)
 
-## **Experiment with Custom Datasets**
+### **Experiment with Custom Datasets**
