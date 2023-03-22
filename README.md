@@ -1,6 +1,6 @@
 ### **Project's name: Convexity Regularizer for Neural Optimal Transport**
 
-## **Member of Project**
+### **Member of Project**
 - Nikita Guschin : teaching assistant
 - Fidele Koffivi GBagbe : 1st year master student, ACS
 - Bintang Alam Semesta W.A.M: 1st year master student, ACS
