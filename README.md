@@ -46,8 +46,6 @@ or
 
 ### **Experiment with Custom Datasets**
 
-### **TO-DO Activities**
-
 ### **Acknowledgements**
 (give credit here,........)
 
