@@ -28,6 +28,7 @@ or
 `pip install -r dependencies.txt`
 
 ### **Folder Structure**
+`
 .
 ├── images  # documentation for snippet figures (format: .jpeg or .png)
     ├──
@@ -50,7 +51,7 @@ or
 
 ├── LICENSE
 └── README.md
-
+`
 
 
 ### **Downloaded Data**
