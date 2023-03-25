@@ -1,7 +1,7 @@
 ### **Project's name: Convexity Regularizer for Neural Optimal Transport**
 
 ### **Member of Project**
-- Nikita Guschin-TA
+- Nikita Gushchin-TA
 
 Team's name: BinKoff (Group 31)
 - Bintang Alam Semesta W.A.M-1st year master student, ACS
@@ -28,7 +28,7 @@ or
 `pip install -r dependencies.txt`
 
 ### **Folder Structure**
-- images---documentation for snippet figures (format: .jpeg or .png)
+- images---documentation for snippet figures (format: `.jpeg` or `.png`)
    - ddd
    - ddd
    - dd
@@ -38,7 +38,7 @@ or
   - ddd
   - ddd
 
-- notebooks---documentation of source codes (format: .ipynb file)
+- notebooks---documentation of source codes (format: `.ipynb`)
   - ddd
   - ddd
   - ddd
