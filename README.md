@@ -14,13 +14,13 @@ The method proposed in the research paper uses adversarial training (kind of GAN
 Add a convexity regularizer in the loss of neural optimal transport algorithm to improve its stability during transport training and the high-quality of the inverse target-to-input mapping.
 
 ### **Environment (Dependencies)**
-- [POT](https://pythonot.github.io/)==0.8.2
+- [POT](https://pythonot.github.io/)
 - [wandb](https://wandb.ai/site)
-- [torch](https://pytorch.org/docs/stable/torch.html)==1.13.1+cu116
-- [torchvision](https://pytorch.org/vision/stable/index.html)==0.14.1+cu116
-- [numpy](https://numpy.org/)>=1.21.6
-- [tqdm](https://tqdm.github.io/)>=4.64.1
-- [matplotlib](https://matplotlib.org/)>=3.2.2
+- [torch](https://pytorch.org/docs/stable/torch.html)
+- [torchvision](https://pytorch.org/vision/stable/index.html)
+- [numpy](https://numpy.org/)
+- [tqdm](https://tqdm.github.io/)
+- [matplotlib](https://matplotlib.org/)
 
 how to install:
 - `pip3 install -r dependencies.txt`
