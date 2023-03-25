@@ -27,14 +27,18 @@ how to install:
 or
 `pip install -r dependencies.txt`
 
+### Structured Git-Repo:
+
+
+
 ### **Downloaded Data**
 
-### **Training a Model**
-
-### **Evaluating a Model**
-
 ### **Running a Full Experiment**
-Full Experiment (pre-processing, training, save, and testing a model)
+- Training a model
+
+- Evaluating a model
+
+- Full Experiment (pre-processing, training, save, and testing a model)
 
 ### **Experiment with Custom Datasets**
 
@@ -44,3 +48,4 @@ Full Experiment (pre-processing, training, save, and testing a model)
 (give credit here,..........)
 
 ### **References**
+Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev. Neural Optimal Transport.Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023
