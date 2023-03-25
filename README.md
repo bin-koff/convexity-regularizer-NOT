@@ -1,18 +1,30 @@
 ### **Project's name: Convexity Regularizer for Neural Optimal Transport**
 
 ### **Member of Project**
-- Nikita Guschin : teaching assistant
-- Fidele Koffivi GBagbe : 1st year master student, ACS
+- Nikita Guschin : TA
+
+Team's name: BinKoff (Group 31)
 - Bintang Alam Semesta W.A.M: 1st year master student, ACS
+- Fidele Koffivi GBagbe : 1st year master student, ACS
  
-### **Background**
-Using NN (Neural Networks) to tackle continuous optimal transport problem is a promising approach especially for unpaired style-transfer problem. This method learns a one-to-one mapping between the source and target data distributions but uses adversarial  training (similar to GANs), which is not very stable. Unlike GANs, this method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution. To address the stability issue, it's necessary to insert a convexity regularizer (kind of gradient penalty in WGAN-GP) in the loss of neural optimal transport to improve its staiblity during optimal transport training while maintaining the-quality of the inverse target-to-input mapping.
+### **Research Idea**
+The method proposed in the research paper uses adversarial training (kind of GANs). which is not very stable to compute the optimal transport map $T$. From the theory, the method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution.
 
-keywords: one-to-one map, inverse target-to-input-mapping, adversarial training, convex optimal transport, convexity regularizer, WGAN-GP
+### **Objectives*
+Add a convexity regularizer in the loss of neural optimal transport algorithm to improve its stability during transport training and the high-quality of the inverse target-to-input mapping.
 
-### **Problem Formulation**
+### **Environment (Dependencies)**
+`POT==0.8.2`
+`wandb`
+`torch==1.13.1+cu116`
+`numpy>=1.21.6`
+`tqdm>=4.64.1`
+`matplotlib>=3.2.2`
 
-### **Environment**
+how to install:
+`pip3 install -r dependencies.txt`
+or
+`pip install -r dependencies.txt`
 
 ### **Downloaded Data**
 
