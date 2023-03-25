@@ -28,31 +28,28 @@ or
 `pip install -r dependencies.txt`
 
 ### **Folder Structure**
-`
-- images  # documentation for snippet figures (format: .jpeg or .png)
+- images---documentation for snippet figures (format: .jpeg or .png)
    - ddd
    - ddd
    - dd
    
-- models  # documentation of the outputs (format:) 
+- models---documentation of the outputs (format:) 
   - ddd
   - ddd
   - ddd
 
-- notebooks # documentation of source codes (format: .ipynb file)
+- notebooks---documentation of source codes (format: .ipynb file)
   - ddd
   - ddd
   - ddd
 
-- resources # documentation of scientific papers from journals/conferences
+- resources---documentation of scientific papers from journals/conferences
   - dddd
   - dddd
   - ddd
 
 - LICENSE
 - README.md
-`
-
 
 ### **Datasets**
 
