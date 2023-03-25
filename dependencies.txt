@@ -1,0 +1,7 @@
+# cat dependencies.txt
+"POT==0.8.2"
+"torch==1.13.1+cu116"
+"torchvision==0.14.1+cu116"
+"numpy>=1.21.6"
+"tqdm>=4.64.1"
+"matplotlib>=3.2.2"
