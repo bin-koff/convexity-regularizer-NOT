@@ -29,19 +29,34 @@ or
 
 ### **Folder Structure**
 `
-      .
-      ├── images  # documentation for snippet figures (format: .jpeg or .png)
-      ├── models  # documentation of the outputs (format:) 
-      ├── notebooks # documentation of source codes (format: .ipynb file)
-      ├── resources # documentation of scientific papers from journals/conferences
-      ├── LICENSE
-      └── README.md
+- images  # documentation for snippet figures (format: .jpeg or .png)
+   - ddd
+   - ddd
+   - dd
+   
+- models  # documentation of the outputs (format:) 
+  - ddd
+  - ddd
+  - ddd
+
+- notebooks # documentation of source codes (format: .ipynb file)
+  - ddd
+  - ddd
+  - ddd
+
+- resources # documentation of scientific papers from journals/conferences
+  - dddd
+  - dddd
+  - ddd
+
+- LICENSE
+- README.md
 `
 
 
-### **Downloaded Data**
+### **Datasets**
 
-### **Running a Full Experiment**
+### **Running an Experiment**
 - Training a model
 
 - Evaluating a model
@@ -52,7 +67,6 @@ or
   - saving
   - testing
 
-### **Experiment with Custom Datasets**
 
 ### **Acknowledgements**
 (give credit here,........)
