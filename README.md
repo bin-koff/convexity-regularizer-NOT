@@ -4,8 +4,8 @@
 - Nikita Gushchin-TA
 
 Team's name: BinKoff (Group 31)
-- Bintang Alam Semesta W.A.M-1st year master student, ACS
-- Fidele Koffivi Gbagbe-1st year master student, ACS
+- [Bintang Alam Semesta W.A.M](https://www.linkedin.com/in/bintang-alam-semesta-w-a-m-62b20a145)-1st year master student, ACS
+- [Fidele Koffivi Gbagbe](https://www.linkedin.com/in/koffivi)-1st year master student, ACS
  
 ### **Research Idea**
 The method proposed in the research paper uses adversarial training (kind of GANs). which is not very stable to compute the optimal transport map $T$. From the theory, the method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution.
@@ -51,22 +51,20 @@ or
 - LICENSE
 - README.md
 
-### **Datasets**
+### **Dataset**
 
 ### **Running an Experiment**
-- Training a model
-
-- Evaluating a model
 
 - Full Experiment:
   - pre-processing
   - training
-  - saving
-  - testing
+  - evaluating (testing)
+  - saving the model
 
 
-### **Acknowledgements**
+### **Credits**
 (give credit here,........)
 
 ### **References**
-Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev. [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023
+1. [Alexander Korotin](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en), [Daniil Selikhanovych](https://scholar.google.com/citations?user=ZpZhN3QAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru). [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023 \\
+2. Alexander Korotin. [Neural Optimal Transport Presentation](https://www.youtube.com/watch?v=tMfn_Tbcakc&ab_channel=ATRC) (August, 9th 2022)
