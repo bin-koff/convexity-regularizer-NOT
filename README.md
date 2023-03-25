@@ -27,7 +27,29 @@ how to install:
 or
 `pip install -r dependencies.txt`
 
-### **Structured Git-Repo**
+### **Folder Structure**
+.
+├── images  # documentation for snippet figures (format: .jpeg or .png)
+    ├──
+    ├──
+    ├──
+    
+├── models  # documentation of the outputs (format:) 
+    ├──
+    ├──
+    ├──
+├── notebooks # documentation of source codes (format: .ipynb file)
+    ├──
+    ├──
+    ├──
+
+├── resources # documentation of scientific papers from journals/conferences
+    ├──
+    ├──
+    ├──
+
+├── LICENSE
+└── README.md
 
 
 
