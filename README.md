@@ -52,4 +52,4 @@ or
 (give credit here,........)
 
 ### **References**
-Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev. Neural Optimal Transport.Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023
+Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev. [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023
