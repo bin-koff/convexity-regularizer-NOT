@@ -5,7 +5,7 @@
 
 Team's name: BinKoff (Group 31)
 - Bintang Alam Semesta W.A.M-1st year master student, ACS
-- Fidele Koffivi GBagbe-1st year master student, ACS
+- Fidele Koffivi Gbagbe-1st year master student, ACS
  
 ### **Research Idea**
 The method proposed in the research paper uses adversarial training (kind of GANs). which is not very stable to compute the optimal transport map $T$. From the theory, the method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution.
@@ -17,6 +17,7 @@ Add a convexity regularizer in the loss of neural optimal transport algorithm to
 `POT==0.8.2`
 `wandb`
 `torch==1.13.1+cu116`
+`torchvision==0.14.1+cu116`
 `numpy>=1.21.6`
 `tqdm>=4.64.1`
 `matplotlib>=3.2.2`
