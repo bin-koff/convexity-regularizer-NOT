@@ -32,8 +32,6 @@ or
   - `NOT_training_strong.ipynb`
   - `NOT_inverse_map_true.ipynb`
   - `NOT_Regularized.ipynb`
-
-- resources---documentation of scientific papers from journal/conference
 - LICENSE
 - README.md
 
