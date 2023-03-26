@@ -27,20 +27,10 @@ how to install:
 or
 - `pip install -r dependencies.txt`
 
-### **Repository Structure**
-- images---documentation for snippet figures (format: `.jpeg` or `.png`)
-   - ddd
-   - ddd
-   - dd
-   
-- models---documentation of the outputs (format:) 
-  - ddd
-  - ddd
-  - ddd
-
+### **Repository**
 - notebooks---documentation of source codes (format: `.ipynb`)
   - `NOT_Training_Strong.ipynb`
-  - `NOT_Inverse_Map.ipynb`
+  - `NOT_Inverse_Map_true.ipynb`
   - `NOT_Regularized.ipynb`
 
 - resources---documentation of scientific papers from journal/conference
@@ -49,15 +39,6 @@ or
 
 ### **Dataset**
 [color-MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
-
-### **Running an Experiment**
-
-- Full Experiment:
-  - pre-processing
-  - training
-  - evaluating (testing)
-  - saving the model
-
 
 ### **Credits**
 [weight and biases](https://wandb.ai/) --> data logging for machine learning 
