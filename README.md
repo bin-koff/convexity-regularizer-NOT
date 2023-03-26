@@ -27,7 +27,7 @@ how to install:
 or
 - `pip install -r dependencies.txt`
 
-### **Folder Structure**
+### **Repository Structure**
 - images---documentation for snippet figures (format: `.jpeg` or `.png`)
    - ddd
    - ddd
@@ -39,19 +39,16 @@ or
   - ddd
 
 - notebooks---documentation of source codes (format: `.ipynb`)
-  - ddd
-  - ddd
-  - ddd
+  - `NOT_Training_Strong.ipynb`
+  - `NOT_Inverse_Map.ipynb`
+  - `NOT_Regularized.ipynb`
 
-- resources---documentation of scientific papers from journals/conferences
-  - dddd
-  - dddd
-  - ddd
-
+- resources---documentation of scientific papers from journal/conference
 - LICENSE
 - README.md
 
 ### **Dataset**
+[color-MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
 
 ### **Running an Experiment**
 
@@ -63,7 +60,8 @@ or
 
 
 ### **Credits**
-(give credit here,........)
+[weight and biases](https://wandb.ai/) --> data logging for machine learning 
+[FID score](https://arxiv.org/abs/1706.08500) --> a metric for evaluating the quality of generated images and specifically developed to evaluate the performance of generative adversarial networks
 
 ### **References**
 1. [Alexander Korotin](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en), [Daniil Selikhanovych](https://scholar.google.com/citations?user=ZpZhN3QAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru). [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023 \\
