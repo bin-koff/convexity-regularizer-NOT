@@ -29,8 +29,8 @@ or
 
 ### **Repository**
 - notebooks---documentation of source codes (format: `.ipynb`)
-  - `NOT_Training_Strong.ipynb`
-  - `NOT_Inverse_Map_true.ipynb`
+  - `NOT_training_strong.ipynb`
+  - `NOT_inverse_map_true.ipynb`
   - `NOT_Regularized.ipynb`
 
 - resources---documentation of scientific papers from journal/conference
