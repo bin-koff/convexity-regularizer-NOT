@@ -28,26 +28,31 @@ or
 - `pip install -r dependencies.txt`
 
 ### **Repository Structure**
-- notebooks & custom modules ---documentation of source codes and corresponding modules
-  - jupyter notebook files:
-    - `NOT_training_strong.ipynb`
-    - `NOT_inverse_map_true.ipynb`
-    - `NOT_Regularized.ipynb`
-  - modules:
-    - src
-    - stats
+- NOT-Group 31
+  - notebooks & custom modules ---documentation of source codes and corresponding modules
+    - jupyter notebook files:
+      - `NOT_training_strong.ipynb`
+      - `NOT_inverse_map_true.ipynb`
+      - `NOT_Regularized.ipynb`
+      - `color_MNIST.ipynb`
+    - modules:
+      - src
+      - stats
     
-- images
-  - fixed-test-images-53900
-  - random-test-images-53900
-  - digits-3
-  - digits-3 to digits-2
-  - Reg-NOT algorithm
-  - NOT algorithm
+  - images
+    - fixed-test-images-53900
+    - random-test-images-53900
+    - digits-3
+    - digits-3 to digits-2
+    - Reg-NOT algorithm
+    - NOT algorithm
  
-- references
-- LICENSE
-- README.md
+  - references
+  - LICENSE
+  - README.md
+ 
+  - presentation file
+  - project report file
 
 ### **Dataset**
 [color-MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
