@@ -27,11 +27,25 @@ how to install:
 or
 - `pip install -r dependencies.txt`
 
-### **Repository**
-- notebooks---documentation of source codes (format: `.ipynb`)
-  - `NOT_training_strong.ipynb`
-  - `NOT_inverse_map_true.ipynb`
-  - `NOT_Regularized.ipynb`
+### **Repository Structure**
+- notebooks & custom modules ---documentation of source codes and corresponding modules
+  - jupyter notebook files:
+    - `NOT_training_strong.ipynb`
+    - `NOT_inverse_map_true.ipynb`
+    - `NOT_Regularized.ipynb`
+  - modules:
+    - src
+    - stats
+    
+- images
+  - fixed-test-images-53900
+  - random-test-images-53900
+  - digits-3
+  - digits-3 to digits-2
+  - Reg-NOT algorithm
+  - NOT algorithm
+ 
+- references
 - LICENSE
 - README.md
 
@@ -43,5 +57,6 @@ or
 - [FID score](https://arxiv.org/abs/1706.08500) --> a metric for evaluating the quality of generated images and specifically developed to evaluate the performance of generative adversarial networks
 
 ### **References**
-1. [Alexander Korotin](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en), [Daniil Selikhanovych](https://scholar.google.com/citations?user=ZpZhN3QAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru). [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023 \\
+1. [Alexander Korotin](https://scholar.google.ru/citations?user=1rIIvjAAAAAJ&hl=en), [Daniil Selikhanovych](https://scholar.google.com/citations?user=ZpZhN3QAAAAJ&hl=en), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru). [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf).Eleventh International Conference on Learning Representations.arXiv:2201.12220v3 [cs.LG] 1 Mar 2023 
+
 2. Alexander Korotin. [Neural Optimal Transport Presentation](https://www.youtube.com/watch?v=tMfn_Tbcakc&ab_channel=ATRC) (August, 9th 2022)
