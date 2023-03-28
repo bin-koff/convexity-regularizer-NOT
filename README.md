@@ -51,8 +51,8 @@ or
   - LICENSE
   - README.md
  
-  - presentation file
-  - project report file
+  - [presentation](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/Presentation-Group%2031-Convexity%20Regularizer%20NOT.pdf)
+  - [project report](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/Project%20Report-Group%2031-Convexity%20Regularizer%20NOT.pdf)
 
 ### **Dataset**
 [color-MNIST](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/color_MNIST.ipynb)
