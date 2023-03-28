@@ -55,7 +55,7 @@ or
   - project report file
 
 ### **Dataset**
-[color-MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
+[color-MNIST](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/color_MNIST.ipynb)
 
 ### **Credits**
 - [weight and biases](https://wandb.ai/) --> data logging for machine learning 
