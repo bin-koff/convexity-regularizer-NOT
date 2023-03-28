@@ -44,8 +44,8 @@ or
     - random-test-images-53900
     - digits-3
     - digits-3 to digits-2
-    - Reg-NOT algorithm
-    - NOT algorithm
+    - [Reg-NOT algorithm](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/images/Reg-NOT%20algorithm.PNG)
+    - [NOT algorithm](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/images/NOT%20algorithm.PNG)
  
   - references
   - LICENSE
