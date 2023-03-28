@@ -31,10 +31,10 @@ or
 - NOT-Group 31
   - notebooks & custom modules ---documentation of source codes and corresponding modules
     - jupyter notebook files:
-      - `NOT_training_strong.ipynb`
-      - `NOT_inverse_map_true.ipynb`
-      - `NOT_Regularized.ipynb`
-      - `color_MNIST.ipynb`
+      - [`NOT_training_strong.ipynb`](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/NOT_training_strong.ipynb)
+      - [`NOT_inverse_map_true.ipynb`](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/NOT_inverse_map_true.ipynb)
+      - [`NOT_Regularized.ipynb`](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/NOT_Regularized.ipynb)
+      - [`color_MNIST.ipynb`](https://github.com/bin-koff/convexity-regularizer-NOT/blob/main/notebooks%20%26%20custom%20modules/color_MNIST.ipynb)
     - modules:
       - src
       - stats
