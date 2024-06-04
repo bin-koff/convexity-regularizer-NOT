@@ -4,7 +4,7 @@
 - Nikita Gushchin-TA
 
 Team's name: BinKoff (Group 31)
-- [Bintang Alam Semesta W.A.M](https://www.linkedin.com/in/bintang-alam-semesta-w-a-m-62b20a145)-1st year master student, ACS
+- [Bintang Alam Semesta W.A.M](https://www.linkedin.com/in/bintangalamsemestawisranam/))-1st year master student, ACS
 - [Fidele Koffivi Gbagbe](https://www.linkedin.com/in/koffivi)-1st year master student, ACS
  
 ### **Research Idea**
