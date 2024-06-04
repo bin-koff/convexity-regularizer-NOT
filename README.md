@@ -4,8 +4,8 @@
 - Nikita Gushchin-TA
 
 Team's name: BinKoff (Group 31)
-- [Bintang Alam Semesta W.A.M](https://www.linkedin.com/in/bintangalamsemestawisranam/))-1st year master student, ACS
-- [Fidele Koffivi Gbagbe](https://www.linkedin.com/in/koffivi)-1st year master student, ACS
+- [Bintang Alam Semesta W.A.M](https://www.linkedin.com/in/bintangalamsemestawisranam/))-1st year master student, Advanced Computational Science
+- [Fidele Koffivi Gbagbe](https://www.linkedin.com/in/koffivi)-1st year master student, Advanced Computational Science
  
 ### **Research Idea**
 The method proposed in the research paper uses adversarial training (kind of GANs). which is not very stable to compute the optimal transport map $T$. From the theory, the method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution.
