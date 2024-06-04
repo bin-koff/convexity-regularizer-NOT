@@ -11,7 +11,7 @@ Team's name: BinKoff (Group 31)
 The method proposed in the research paper uses adversarial training (kind of GANs). which is not very stable to compute the optimal transport map $T$. From the theory, the method's optimal "discriminator" must be convex, and its gradient can be used for inverse mapping from the target distribution to the source distribution.
 
 ### **Objectives**
-Add a convexity regularizer in the loss of neural optimal transport algorithm to improve its stability during direct (source-to-target) map as well as to test the quality of generated images during inverse(target-to-source) map.
+Add a convexity regularizer in the loss of neural optimal transport algorithm to improve its stability during direct, i.e. source-to-target or training-to-test map as well as to test the quality of generated images during inverse, i.e. target-to-source or test-to-training map.
 
 ### **Environment (Dependencies)**
 - [POT](https://pythonot.github.io/)
